@@ -1,0 +1,23 @@
+guarnizo:
+  name: Ermes Guarnizo Motta
+  title: System Engineer - Project manager
+  url: https://github.com/guarnizo2023
+  image_url: https://github.com/guarnizo2023
+  page: true
+  socials:
+    x: guarnizo2023
+    github: https://github.com/guarnizo2023
+
+desobsesor:
+  name: Yovany Suárez Silva
+  title: Software Engineer - FullStack Developer
+  url: https://desobsesor.github.io/portfolio-web/
+  image_url: https://desobsesor.github.io/portfolio-web/assets/6803296_ia-min.jpeg
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: "/all-yovany-articles"
+  socials:
+    x: desobsesor
+    linkedin: https://www.linkedin.com/in/yovany-su%C3%A1rez-silva-78202029/
+    github: https://github.com/desobsesor/
+    newsletter: https://desobsesor.github.io/portfolio-web/

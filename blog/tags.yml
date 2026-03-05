@@ -1,0 +1,54 @@
+docusaurus:
+  label: Docusaurus
+  permalink: /docusaurus
+  description: Docusaurus tag description
+
+activities:
+  label: Activities
+  permalink: /activities
+  description: Activities tag description
+
+emotions:
+  label: Emotions
+  permalink: /emotions
+  description: Emotions tag description
+
+vibra:
+  label: Vibra app
+  permalink: /vibra
+  description: Vibra app tag description
+
+mongodb:
+  label: MongoDB
+  permalink: /mongodb
+  description: Content related to MongoDB database technology
+
+database:
+  label: Database
+  permalink: /database
+  description: Topics covering database design, implementation, and management
+
+architecture:
+  label: Architecture
+  permalink: /architecture
+  description: Software architecture patterns, designs, and best practices
+
+migration:
+  label: Migration
+  permalink: /migration
+  description: Database migration techniques and tools
+
+data:
+  label: Data
+  permalink: /data
+  description: Data analysis, visualization, and manipulation techniques
+
+cloud:
+  label: Cloud
+  permalink: /cloud
+  description: Cloud computing, services, and technologies
+
+aws:
+  label: AWS
+  permalink: /aws
+  description: Amazon Web Services (AWS) cloud computing platform
