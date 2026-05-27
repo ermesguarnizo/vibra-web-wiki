@@ -1,6 +1,7 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
+import type * as OpenApiPlugin from 'docusaurus-plugin-openapi-docs';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -31,12 +32,19 @@ const config: Config = {
     locales: ['en'],
   },
 
+  markdown: {
+    hooks: {
+      onBrokenMarkdownImages: 'ignore',
+    },
+  },
+
   presets: [
     [
       'classic',
       {
         docs: {
           sidebarPath: './sidebars.ts',
+          docItemComponent: '@theme/ApiItem',
           // Vibra project repository
           editUrl:
             'https://github.com/proyectohhss2025-unad/vibra-web-wiki/tree/main/',
@@ -61,6 +69,29 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
+
+  plugins: [
+    [
+      'docusaurus-plugin-openapi-docs',
+      {
+        id: 'vibraApi',
+        docsPluginId: 'classic',
+        config: {
+          vibra_api: {
+            specPath: 'http://localhost:4000/api-json',
+            outputDir: 'docs/api/endpoints',
+            sidebarOptions: {
+              groupPathsBy: 'tag',
+            },
+            showSchemas: true,
+            label: 'Vibra API',
+          } satisfies OpenApiPlugin.Options,
+        },
+      },
+    ],
+  ],
+
+  themes: ['docusaurus-theme-openapi-docs'],
 
   themeConfig: {
     // Replace with your project's social card

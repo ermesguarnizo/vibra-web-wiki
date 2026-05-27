@@ -8,7 +8,10 @@ sidebar_class_name: sidebar-about
 license: MIT
 ---
 # About
- ## Sponsors
+
+Vibra es un ecosistema de aplicaciones diseñado para el bienestar emocional y el desarrollo de habilidades socioemocionales en entornos educativos. Integra un backend API (NestJS/MongoDB), un dashboard web de administración (Next.js/Tailwind) y una aplicación móvil para estudiantes (Expo/React Native).
+
+## Sponsors
 <div class="card">
   <img src="/img/sponsors/logo_unad.png" alt="UNAD Logo" width="100" />
   <h3>UNAD</h3>
@@ -42,5 +45,11 @@ license: MIT
   <img src="/img/sponsors/6803296.jpeg" alt="Yovany Suárez Silva" width="100" />
   <h3>Yovany Suárez Silva</h3>
   <p>Software engineer and Lead developer</p>
-  <p>Full stack developer with extensive experience in mobile and web application development. Technical leader of the Vibra project. https://</p>
+   <p>Full stack developer with extensive experience in mobile and web application development. Technical leader of the Vibra project. https://</p>
+</div>
+
+<div class="card">
+  <h3>Licenciado Javier Motta</h3>
+  <p>Asesor pedagógico</p>
+  <p>Asesor pedagógico del proyecto Vibra, apoyando el diseño de actividades educativas y la evaluación del impacto en el aprendizaje socioemocional.</p>
 </div>

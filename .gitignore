@@ -23,3 +23,6 @@ yarn-error.log*
 
 #IDE
 .vscode
+
+AGENTS.md
+/docs/api/endpoints/*
