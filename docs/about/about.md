@@ -49,7 +49,7 @@ Vibra es un ecosistema de aplicaciones diseñado para el bienestar emocional y e
 </div>
 
 <div class="card">
-  <h3>Licenciado Javier Motta</h3>
+  <h3> Javier Achicanoi</h3>
   <p>Asesor pedagógico</p>
   <p>Asesor pedagógico del proyecto Vibra, apoyando el diseño de actividades educativas y la evaluación del impacto en el aprendizaje socioemocional.</p>
 </div>
