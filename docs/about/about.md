@@ -49,7 +49,39 @@ Vibra es un ecosistema de aplicaciones diseñado para el bienestar emocional y e
 </div>
 
 <div class="card">
-  <h3>Licenciado Javier Motta</h3>
-  <p>Asesor pedagógico</p>
-  <p>Asesor pedagógico del proyecto Vibra, apoyando el diseño de actividades educativas y la evaluación del impacto en el aprendizaje socioemocional.</p>
+  
+<h3>José Javier Achicanoy Miranda</h3>
+<p>Psicólogo Social Comunitario – Mg en educación en línea</p>
+<p>Docente UNAD. Colombia</p>
+<p>Javier.achicanoy@unad.edu.co</p>
+<p>https://orcid.org/0000-0003-4806-0427</p>
+<p>Grupo: Pasos de Libertad – Semillero Arquitectos de realidades humanas - UNAD</p>
 </div>
+
+<div class="card">
+<h3>Martha Yanet González</h3>
+<p>Psicóloga social Comunitario, Mg En psicología comunitaria</p>
+Docente UNAD. Colombia</p>
+<p>martha.gonzalez@unad.edu.co</p>
+<p>https://orcid.org/0000-0002-2642-8617</p>
+<p>Grupo: Pasos de Libertad – Semillero Arquitectos de realidades humanas - UNAD</p>
+</div>
+
+<div class="card">
+<h3>Diana María Ramírez Otalvaro</h3>
+<p>Psicóloga – Mg en psicología clínica</p>
+<p>Docente UNAD. Colombia</p>
+<p>Diana.ramirezo@unad.edu.co</p>
+<p>https://orcid.org/0000-0003-3837-0229</p>
+<p>Grupo: Pasos de Libertad – Semillero Arquitectos de realidades humanas - UNAD</p>
+</div>
+
+<div class="card">
+<h3>Edilberto Silva Fierro</h3>
+<p>Psicólogo Social Comunitario – Mg en educación en línea</p>
+<p>Director CEAD Florencia- UNAD. Colombia</p>
+<p>Edilberto.silva@unad.edu.co</p>
+<p>https://orcid.org/0000-0003-3730-174X</p>
+<p>Grupo: Pasos de Libertad – Semillero Arquitectos de realidades humanas - UNAD</p>
+
+
